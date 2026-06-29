@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: Noticia1
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: fccc1a43797db5b4e9601f0f10aa12db, type: 3}
+    texto: Mateo enciende el televisor y se queda mirando las noticias en silencio.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: fccc1a43797db5b4e9601f0f10aa12db, type: 3}
+    texto: "REPORTERA: \u201CEl Servicio Nacional de Meteorolog\xEDa advirti\xF3
+      que podr\xEDan registrarse lluvias intensas en los pr\xF3ximos d\xEDas.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: fccc1a43797db5b4e9601f0f10aa12db, type: 3}
+    texto: "Mateo observa la pantalla unos segundos m\xE1s. La advertencia le recuerda
+      el estado del barrio y el riesgo que todos han estado ignorando."
+    decision: {fileID: 0}

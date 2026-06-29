@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ff8d6c8ea3e354a87bbe9adc4044d8, type: 3}
+  m_Name: NPC1_Story
+  m_EditorClassIdentifier: Assembly-CSharp::NPCStoryData
+  nombreNPC: NPC1
+  esExtra: 1
+  interaccionesPrincipales:
+  - id: NPC1_01
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_02
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_03
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_04
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_05
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_06
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_07
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_08
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  - id: NPC1_09
+    diaRequerido: 0
+    hora: 0
+    dialogoInicial: {fileID: 0}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 0
+  interaccionesExtra:
+  - bienestarMin: 2
+    bienestarMax: 2
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 200e05bcb48ea534fa74e28b38ab4708, type: 2}
+  - bienestarMin: 3
+    bienestarMax: 3
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: fb3e81d9a3dd82748b76d3a40fe126cd, type: 2}
+  - bienestarMin: 4
+    bienestarMax: 4
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: b6596c9093b2ef24889f1f827ed5348c, type: 2}
+  - bienestarMin: 5
+    bienestarMax: 5
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 5d2f440274199ce4295a27d2f420a83e, type: 2}
+  - bienestarMin: 6
+    bienestarMax: 6
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 14274ae464ec6de428235bbf4bd9bd80, type: 2}
+  - bienestarMin: 7
+    bienestarMax: 7
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 35a8d14cc963a4a4ebd91150e75d266d, type: 2}
+  - bienestarMin: 8
+    bienestarMax: 8
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: c9677d39be8abb14488ad40e3cc047ba, type: 2}
+  - bienestarMin: 9
+    bienestarMax: 9
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 50601c01963d83a4ba06c0b209262339, type: 2}
+  - bienestarMin: 10
+    bienestarMax: 10
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 4abe7d1355d96b645ae13ed192db03df, type: 2}
+  textoSinInteraccion: No tengo nada que decirle ahora.

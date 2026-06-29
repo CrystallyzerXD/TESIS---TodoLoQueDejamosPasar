@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94e86c27b5e0d849a794667b2aa0f84, type: 3}
+  m_Name: Config_StreetWest
+  m_EditorClassIdentifier: Assembly-CSharp::SceneVisualConfig
+  nombreEscena: 2. StreetWest
+  tipoEscena: 3
+  fondoFijo: {fileID: 0}
+  fondoDia: {fileID: 0}
+  fondoNoche: {fileID: 0}
+  fondosDia:
+  - {fileID: 21300000, guid: 96ab3e383faf4c8478deca978f985473, type: 3}
+  - {fileID: 21300000, guid: 9896a826968d2344db5dee62699c5c6f, type: 3}
+  - {fileID: 21300000, guid: f4f6114355fad2943918870b8065ec78, type: 3}
+  - {fileID: 21300000, guid: a918915fb527b3a4fb96c51a87172816, type: 3}
+  - {fileID: 21300000, guid: a31027a559a4f444ab09c97c523a30e1, type: 3}
+  - {fileID: 21300000, guid: 8c983c899a82563478f0adee8fb59861, type: 3}
+  - {fileID: 21300000, guid: 4123a20012340784faa4bbab1bec339d, type: 3}
+  - {fileID: 21300000, guid: e10194ad6014ea44d8d7ae82e1b7493f, type: 3}
+  - {fileID: 21300000, guid: d789271de4725e84eae4c256d55d16af, type: 3}
+  - {fileID: 21300000, guid: d54a8776ae769f94d9ac22571d543754, type: 3}
+  fondosNoche:
+  - {fileID: 21300000, guid: 2db411563608ded44b985fb96dde1e3e, type: 3}
+  - {fileID: 21300000, guid: 87beebb03276d9849b01659732175c44, type: 3}
+  - {fileID: 21300000, guid: 9588abfab26ef0540a862c6857e3ec36, type: 3}
+  - {fileID: 21300000, guid: 80bbc2198c272b04f9092db60e54b082, type: 3}
+  - {fileID: 21300000, guid: a5bec062564cdf746b58d84df5b48aa4, type: 3}
+  - {fileID: 21300000, guid: 69c84d10e1c1d954b8e7a5506ddf4769, type: 3}
+  - {fileID: 21300000, guid: 3adbee754f9990d4cb6e37092d5fc8c2, type: 3}
+  - {fileID: 21300000, guid: 6f0b6782f62818a429148b3f06741ef6, type: 3}
+  - {fileID: 21300000, guid: 9dea207cee6ba34489d5f58b8582fe40, type: 3}
+  - {fileID: 21300000, guid: 160541a2f51e52740a5febcd40026fb4, type: 3}
+  fondosSinArboles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  colorLimpio: {r: 1, g: 1, b: 1, a: 1}
+  colorContaminado: {r: 0.6, g: 0.55, b: 0.45, a: 1}
+  colorFresco: {r: 1, g: 1, b: 1, a: 1}
+  colorCalorMaximo: {r: 1, g: 0.88, b: 0.72, a: 1}
+  playerSpawnXIzquierda: -8
+  playerSpawnXDerecha: 8

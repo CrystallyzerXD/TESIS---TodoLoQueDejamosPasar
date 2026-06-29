@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c860f5a4c7bb1974d938e3791b9a4290, type: 3}
+  m_Name: Lucia_Dia6
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lineas:
+  - nombrePersonaje: Vecino
+    texto: En las noticias dijeron alerta por lluvias esta noche. Zona roja, dijeron.
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: "Luc\xEDa"
+    texto: "El a\xF1o pasado con la mitad de eso se inund\xF3 la calle de abajo.
+      \xBFTe acuerdas?"
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: Vecino
+    texto: "Y los desag\xFCes de la esquina siguen igual de tapados que entonces."
+    anclaPersonaje: {fileID: 0}

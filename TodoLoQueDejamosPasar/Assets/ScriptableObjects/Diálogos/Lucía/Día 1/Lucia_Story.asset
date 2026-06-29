@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ff8d6c8ea3e354a87bbe9adc4044d8, type: 3}
+  m_Name: Lucia_Story
+  m_EditorClassIdentifier: Assembly-CSharp::NPCStoryData
+  nombreNPC: Lucia
+  esExtra: 0
+  interaccionesPrincipales:
+  - id: Lucia_Dia1
+    diaRequerido: 1
+    hora: 0
+    dialogoInicial: {fileID: 11400000, guid: ff38062005546dc45b3bfa27dc45a3bd, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 11400000, guid: 2e080608d49346744975d2cd6fc4111c, type: 2}
+    repetible: 0
+  - id: Lucia_Dia3
+    diaRequerido: 3
+    hora: 0
+    dialogoInicial: {fileID: 11400000, guid: 161487b3a576e794dbfa89a46de64a27, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 11400000, guid: 5c12b28a23162c347be411c92b8622a7, type: 2}
+    repetible: 0
+  - id: Lucia_Dia6
+    diaRequerido: 6
+    hora: 0
+    dialogoInicial: {fileID: 11400000, guid: f951400aa2b230b44ba8bc4621db7c1b, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 11400000, guid: 4e9a77bb2a243f04283cb135ca5a3053, type: 2}
+    repetible: 0
+  interaccionesExtra: []
+  textoSinInteraccion: No tengo nada que decirle ahora.

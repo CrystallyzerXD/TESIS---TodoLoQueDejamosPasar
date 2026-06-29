@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ed53c9c589d2f4cb71d5bedd7e1782, type: 3}
+  m_Name: Lucia_Decision3
+  m_EditorClassIdentifier: Assembly-CSharp::DecisionData
+  textoPregunta: "\xBFT\xFA qu\xE9 piensas?"
+  nombrePersonaje: "Luc\xEDa"
+  opciones:
+  - textoOpcion: "1. Apoyar a Luc\xEDa"
+    deltaCont: 0
+    deltaBienestar: 1
+    deltaRiesgo: -1
+    deltaArboles: 1
+    dialogoReaccion: {fileID: 11400000, guid: 252ef81b9f229d141bf2d396d4e1a3f7, type: 2}
+  - textoOpcion: 2. Neutral
+    deltaCont: 0
+    deltaBienestar: -1
+    deltaRiesgo: 1
+    deltaArboles: 2
+    dialogoReaccion: {fileID: 11400000, guid: d1fe6f7f174e6fa4faa5d336efea5bc1, type: 2}
+  - textoOpcion: 3. Apoyar a Javier
+    deltaCont: 0
+    deltaBienestar: -1
+    deltaRiesgo: 1
+    deltaArboles: 3
+    dialogoReaccion: {fileID: 11400000, guid: 95dabdd8404bcee49b6bf886ebb46e4e, type: 2}

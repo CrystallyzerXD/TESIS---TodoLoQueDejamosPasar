@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ff8d6c8ea3e354a87bbe9adc4044d8, type: 3}
+  m_Name: NPC4_Story
+  m_EditorClassIdentifier: Assembly-CSharp::NPCStoryData
+  nombreNPC: NPC4
+  esExtra: 1
+  interaccionesPrincipales: []
+  interaccionesExtra:
+  - bienestarMin: 7
+    bienestarMax: 7
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 638194de83b635f4f9656384d755c718, type: 2}
+  - bienestarMin: 8
+    bienestarMax: 8
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: f22b0603f95495646b1dc1b0b409ab3f, type: 2}
+  - bienestarMin: 9
+    bienestarMax: 9
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: a2e6612d89c77a34da6c66a0b805c9cb, type: 2}
+  - bienestarMin: 10
+    bienestarMax: 10
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 9dbf77e633421c94d8b8370aba6e649d, type: 2}
+  textoSinInteraccion: No tengo nada que decirle ahora.

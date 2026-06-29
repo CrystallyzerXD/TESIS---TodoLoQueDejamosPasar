@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: Rol_Trabajador
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "Mateo llega a la librer\xEDa y ve a Don Eladio, su jefe, pintando la
+      pared exterior del local bajo el sol. Tiene la camisa empapada de sudor y una
+      botella de agua casi vac\xEDa a un lado."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "DON ELADIO: \u201CAntes pintaba este local una vez cada varios a\xF1os\u2026\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "Don Eladio mira la pared reci\xE9n pintada. Algunas partes ya empiezan
+      a verse secas y desgastadas."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "DON ELADIO: \u201CAhora el sol arruina la pintura rapid\xEDsimo. Uno
+      vuelve a gastar agua, plata y tiempo\u2026 y al poco tiempo est\xE1 igual.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: Hace una pausa y se seca la frente con la manga.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "DON ELADIO: \u201CPero lo peor no es eso.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "Don Eladio baja lentamente de la escalera y mira la calle vac\xEDa."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: "DON ELADIO: \u201CLo peor es trabajar as\xED todos los d\xEDas. Hay gente
+      que pasa horas enteras bajo este sol porque no tiene otra opci\xF3n.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 393a21f22962ccc4589539cef178307f, type: 3}
+    texto: Mateo lo observa en silencio antes de decidir si ayudarlo o entrar al
+      local.
+    decision: {fileID: 11400000, guid: 3b7e438315884fc4582b99a45cb0bc50, type: 2}

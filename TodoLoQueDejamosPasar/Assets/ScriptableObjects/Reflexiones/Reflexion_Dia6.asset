@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7c2b0062451e468ab72a4ecae03c6, type: 3}
+  m_Name: Reflexion_Dia6
+  m_EditorClassIdentifier: Assembly-CSharp::ReflexionData
+  reflexiones:
+  - texto: "\u201CVi a todos preocupados, pero segu\xED caminando. Ahora la lluvia
+      ya empez\xF3, y no puedo dejar de pensar que quiz\xE1 todav\xEDa hab\xEDa tiempo
+      para evitar lo que viene.\u201D"
+    diaRequerido: 6
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 1
+      valor: 5
+    arboles:
+      tipo: 0
+      valor: 5
+    arbolesPendiente:
+      tipo: 0
+      valor: 1
+  - texto: "\u201CNunca pens\xE9 que algo tan peque\xF1o como una botella o una bolsa
+      pudiera terminar convirti\xE9ndose en una inundaci\xF3n. Tal vez los problemas
+      no aparecen de golpe. Tal vez se forman poco a poco, cada vez que alguien decide
+      no hacer nada.\u201D"
+    diaRequerido: 6
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 5
+      valor: 5
+    arboles:
+      tipo: 0
+      valor: 5
+    arbolesPendiente:
+      tipo: 0
+      valor: 2

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c860f5a4c7bb1974d938e3791b9a4290, type: 3}
+  m_Name: Lucia_Si6
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lineas:
+  - nombrePersonaje: Mateo
+    texto: "\xBFQu\xE9 est\xE1n pensando hacer?"
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: "Luc\xEDa"
+    texto: "Avisar a los que viven m\xE1s abajo, por si acaso. Y ver si alguien puede
+      limpiar las esquinas antes de que oscurezca."
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: Vecino
+    texto: Poca gente, pero algo es algo.
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: Mateo
+    texto: Yo puedo pasar por la esquina de vuelta del trabajo.
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: "Luc\xEDa"
+    texto: Con eso ayuda. Gracias, Mateo.
+    anclaPersonaje: {fileID: 0}

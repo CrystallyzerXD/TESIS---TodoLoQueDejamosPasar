@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: NubeMalo
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: "El tel\xE9fono de Mateo suena mientras est\xE1 a punto de llegar a casa."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: "VETERINARIO: \u201C\xBFMateo? Soy del veterinario...\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: Hay una pausa.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: "VETERINARIO: \u201CHicimos todo lo que pudimos. La intoxicaci\xF3n era
+      muy grave. Nube hab\xEDa ingerido residuos contaminados y su cuerpo ya no resisti\xF3.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: Mateo no responde.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: "VETERINARIO: \u201CLo siento mucho.\u201D"
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: La llamada termina.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: d6d63716860ab8a4dbdad8324276223f, type: 3}
+    texto: "Mateo mira la calle vac\xEDa y recuerda a Nube esperando siempre en la
+      ventana, como si fuera a volver en cualquier momento."
+    decision: {fileID: 0}

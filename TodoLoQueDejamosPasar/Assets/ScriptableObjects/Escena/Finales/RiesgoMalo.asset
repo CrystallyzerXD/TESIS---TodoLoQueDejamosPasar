@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: RiesgoMalo
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: 
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: La lluvia dijo todo lo que el barrio no pudo.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "El problema no fue solo la basura. Fue dejarla ah\xED, d\xEDa tras d\xEDa."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "Fue el desag\xFCe que nadie limpi\xF3.\nEl \xE1rbol que nadie not\xF3
+      hasta que cay\xF3."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "MATEO: \"Pens\xE9 que todav\xEDa hab\xEDa tiempo.\""
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "A veces s\xED lo hay.\nPero no para siempre."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "Los vecinos limpian ahora lo que se fue acumulando durante a\xF1os."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 079e2de41b2454549889ef8a46af8cbd, type: 3}
+    texto: "Mateo tambi\xE9n.\nEn silencio."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 206c362dfbc38244daf7b557089738c5, type: 3}
+    texto: "\u201CDurante mucho tiempo pens\xE9 que estas cosas no me afectaban.
+      Que eran problemas lejanos, algo que simplemente estaba ah\xED. Pero ahora
+      el barrio ya no se parece al lugar donde crec\xED. Y lo peor es saber que no
+      cambi\xF3 de un d\xEDa para otro. Cambi\xF3 poco a poco... mientras todos fing\xEDamos
+      que no estaba pasando.\u201D"
+    decision: {fileID: 0}

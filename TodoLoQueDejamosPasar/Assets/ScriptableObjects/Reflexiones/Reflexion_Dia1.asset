@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7c2b0062451e468ab72a4ecae03c6, type: 3}
+  m_Name: Reflexion_Dia1
+  m_EditorClassIdentifier: Assembly-CSharp::ReflexionData
+  reflexiones:
+  - texto: "\u201CSegu\xED de largo como si no fuera mi problema. Pero ahora no puedo
+      dejar de pensar en eso. Si hubiera hecho algo\u2026 \xBFde verdad habr\xEDa
+      cambiado algo? Quiz\xE1 ma\xF1ana ya sea demasiado tarde.\u201D"
+    diaRequerido: 1
+    contaminacion:
+      tipo: 1
+      valor: 5
+    bienestar:
+      tipo: 0
+      valor: 5
+    riesgo:
+      tipo: 0
+      valor: 5
+    requiereArbolesTotalados: 0
+  - texto: "\u201CUn peque\xF1o cambio puede hacer la diferencia. No arregl\xE9 todo,
+      pero al menos hoy el parque se ve\xEDa un poco distinto. Realmente no cuesta
+      tanto como parece\u2026 Si tan solo m\xE1s personas pudieran entenderlo.\u201D"
+    diaRequerido: 1
+    contaminacion:
+      tipo: 5
+      valor: 5
+    bienestar:
+      tipo: 0
+      valor: 5
+    riesgo:
+      tipo: 0
+      valor: 5
+    requiereArbolesTotalados: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea1ccb3f2de07624abf65f74a747b70a, type: 3}
+  m_Name: RainConfig
+  m_EditorClassIdentifier: Assembly-CSharp::RainConfig
+  configuraciones:
+  - dia: 6
+    escenas:
+    - 2. StreetWest
+    - 3. Park
+    - 4. StreetEast
+    hora: 2
+  - dia: 7
+    escenas:
+    - 2. StreetWest
+    - 3. Park
+    - 4. StreetEast
+    hora: 1

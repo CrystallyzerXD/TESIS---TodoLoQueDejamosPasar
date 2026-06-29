@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ff8d6c8ea3e354a87bbe9adc4044d8, type: 3}
+  m_Name: Nube_Story
+  m_EditorClassIdentifier: Assembly-CSharp::NPCStoryData
+  nombreNPC: Nube
+  esExtra: 0
+  interaccionesPrincipales:
+  - id: Nube_Dia1
+    diaRequerido: 1
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: b31560ebf418dd5488bcff7cb1220178, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  - id: Nube_Dia2
+    diaRequerido: 2
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: a201c5ce970715944b55186243fcbb90, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  - id: Nube_Dia3
+    diaRequerido: 3
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: 803a39bfdb0eaa44e8e980604ed115be, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  - id: Nube_Dia4
+    diaRequerido: 4
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: a629b56b8523fca49b7c17b40ef02abc, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  - id: Nube_Dia5
+    diaRequerido: 5
+    hora: 1
+    dialogoInicial: {fileID: 11400000, guid: c3f52acc931d3874f9c20fa75113ff7e, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  - id: Nube_Noche
+    diaRequerido: 0
+    hora: 2
+    dialogoInicial: {fileID: 11400000, guid: 9b92bf4a9e040d646976af7427ab90c3, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  interaccionesExtra: []
+  textoSinInteraccion: No tengo nada que decirle ahora.

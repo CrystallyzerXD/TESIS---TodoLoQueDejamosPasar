@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: b338097d5fb6e3f49982aa0794fc2479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3371111122856505543
+    second: spritesheet_unity_1_0
+  - first:
+      213: -7457383604059760571
+    second: spritesheet_unity_1_1
+  - first:
+      213: -1139640405525593987
+    second: spritesheet_unity_1_2
+  - first:
+      213: -8016213464712384431
+    second: spritesheet_unity_1_3
+  - first:
+      213: -3578146454993294737
+    second: spritesheet_unity_1_4
+  - first:
+      213: -940929073895289328
+    second: spritesheet_unity_1_5
+  - first:
+      213: -3332628915932290573
+    second: spritesheet_unity_1_6
+  - first:
+      213: -8806004307296455310
+    second: spritesheet_unity_1_7
+  - first:
+      213: 5397419061048549590
+    second: spritesheet_unity_1_8
+  - first:
+      213: 282891889601631690
+    second: spritesheet_unity_1_9
+  - first:
+      213: 5335952577290912844
+    second: spritesheet_unity_1_10
+  - first:
+      213: -2155876679941772090
+    second: spritesheet_unity_1_11
+  - first:
+      213: -3098194299487635030
+    second: spritesheet_unity_1_12
+  - first:
+      213: 1937799707634256748
+    second: spritesheet_unity_1_13
+  - first:
+      213: 490985836559631306
+    second: spritesheet_unity_1_14
+  - first:
+      213: 3700903333579878068
+    second: spritesheet_unity_1_15
+  - first:
+      213: -5473826858376722528
+    second: spritesheet_unity_1_16
+  - first:
+      213: -401990350594909669
+    second: spritesheet_unity_1_17
+  - first:
+      213: -5943720246732261715
+    second: spritesheet_unity_1_18
+  - first:
+      213: -6223861514973431134
+    second: spritesheet_unity_1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mateo_Idle_Right_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756ea26c9bf5a0645b0442e808649b22
+      internalID: 328075795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Right_02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0971d38ec5a0b4886a4ca91d1760a6
+      internalID: -502146344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Right_03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 197
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571bb58d2daf2cc46b36fdbc9782426c
+      internalID: -1344085436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Right_04
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94df4361aa77114b94df2ed99426ba5
+      internalID: -809151424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974925430bce37e44ba6a1a4aeed6b6f
+      internalID: 1905527947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612532e05ef108b47bcf2ad65802bf8a
+      internalID: 2127540845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6aac29f45db58459e3ed6288d94dbe
+      internalID: -1129548339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_04
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e028b393c5aa648a7277bbd373b8cb
+      internalID: -1739272356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_05
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02430bfcda5995545b9eb9dd9a5c62b8
+      internalID: 1352388421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Right_06
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d60712385ca9c438ec85bacc1ac302
+      internalID: 73766556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Left_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c24810c61a82547a285f3c4b20c39c
+      internalID: 1396923273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Left_02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5c1c1f423db8478dd44ae1a9ca498
+      internalID: -415397887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Left_03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96ecc99debc854b89b7cdec8cd23b6
+      internalID: 1775795993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Idle_Left_04
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132622604598ecb40acb4ccd6163e61e
+      internalID: -359896921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50669251a541474429d71fd7f1d3f89d
+      internalID: -1733091082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_02
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e519bb2b87bcc4da73faf60f00545d
+      internalID: -2112454432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b0a7271a21894cbd1c05b61ed9db9
+      internalID: 1892586945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_04
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660f914cc92d5241861e1d49fdcb86f
+      internalID: -69716718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_05
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74de4f09644d0a46a2cd51712d6a879
+      internalID: -70286848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mateo_Walk_Left_06
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc4635580fa9f42b0731c6f0521e6d
+      internalID: 1849241702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb3b25d84b7d8dc4c85fe1277d812256
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":4.0},"gridSpriteSize":{"x":65.0,"y":65.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mateo_Idle_Left_01: 1396923273
+      Mateo_Idle_Left_02: -415397887
+      Mateo_Idle_Left_03: 1775795993
+      Mateo_Idle_Left_04: -359896921
+      Mateo_Idle_Right_01: 328075795
+      Mateo_Idle_Right_02: -502146344
+      Mateo_Idle_Right_03: -1344085436
+      Mateo_Idle_Right_04: -809151424
+      Mateo_Walk_Left_01: -1733091082
+      Mateo_Walk_Left_02: -2112454432
+      Mateo_Walk_Left_03: 1892586945
+      Mateo_Walk_Left_04: -69716718
+      Mateo_Walk_Left_05: -70286848
+      Mateo_Walk_Left_06: 1849241702
+      Mateo_Walk_Right_01: 1905527947
+      Mateo_Walk_Right_02: 2127540845
+      Mateo_Walk_Right_03: -1129548339
+      Mateo_Walk_Right_04: -1739272356
+      Mateo_Walk_Right_05: 1352388421
+      Mateo_Walk_Right_06: 73766556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

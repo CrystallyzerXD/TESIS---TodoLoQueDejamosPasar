@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94e86c27b5e0d849a794667b2aa0f84, type: 3}
+  m_Name: Config_StreetEast
+  m_EditorClassIdentifier: Assembly-CSharp::SceneVisualConfig
+  nombreEscena: 4. StreetEast
+  tipoEscena: 2
+  fondoFijo: {fileID: 0}
+  fondoDia: {fileID: 0}
+  fondoNoche: {fileID: 0}
+  fondosDia:
+  - {fileID: 21300000, guid: 110e2833aa539174795c586160a65b95, type: 3}
+  - {fileID: 21300000, guid: 6282f5ae0e3e326469ae8bb5d9e3ebd0, type: 3}
+  - {fileID: 21300000, guid: 9d062b1a802b3a54585a1d417cc2d6f8, type: 3}
+  - {fileID: 21300000, guid: bf9742d35d41bf64cbe1e7d3e120fcbe, type: 3}
+  - {fileID: 21300000, guid: d436ba913c4c96a42825f613753aac3e, type: 3}
+  - {fileID: 21300000, guid: bab166c3677c8d0419171eeb1931376e, type: 3}
+  - {fileID: 21300000, guid: c25eb6b748896de42a8ebb00649567e5, type: 3}
+  - {fileID: 21300000, guid: e32a9d62ac9cd2e429544a5bbf6d618c, type: 3}
+  - {fileID: 21300000, guid: f4446d08ef2af6749873f5e3dc6fa93c, type: 3}
+  - {fileID: 21300000, guid: cc0c523f289eafc498a1f93867f8b209, type: 3}
+  fondosNoche:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  fondosSinArboles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  colorLimpio: {r: 1, g: 1, b: 1, a: 1}
+  colorContaminado: {r: 0.6, g: 0.55, b: 0.45, a: 1}
+  colorFresco: {r: 1, g: 1, b: 1, a: 1}
+  colorCalorMaximo: {r: 1, g: 0.88, b: 0.72, a: 1}
+  playerSpawnXIzquierda: -8
+  playerSpawnXDerecha: 8

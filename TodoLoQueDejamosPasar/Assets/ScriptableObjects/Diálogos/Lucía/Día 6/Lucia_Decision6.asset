@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ed53c9c589d2f4cb71d5bedd7e1782, type: 3}
+  m_Name: Lucia_Decision6
+  m_EditorClassIdentifier: Assembly-CSharp::DecisionData
+  textoPregunta: "Mateo, \xBFviste las noticias?"
+  nombrePersonaje: "Luc\xEDa"
+  opciones:
+  - textoOpcion: 1. Quedarse a escuchar y organizarse con ellos.
+    deltaCont: -1
+    deltaBienestar: 1
+    deltaRiesgo: -2
+    deltaArboles: 0
+    dialogoReaccion: {fileID: 11400000, guid: dcc93574c3455fb4893f9c5b6ebf854f, type: 2}
+  - textoOpcion: 2. Decirles que seguro no es para tanto.
+    deltaCont: 1
+    deltaBienestar: -1
+    deltaRiesgo: 2
+    deltaArboles: 0
+    dialogoReaccion: {fileID: 11400000, guid: 5f403263d500f3846a6e346bbea72c58, type: 2}

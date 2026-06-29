@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7c2b0062451e468ab72a4ecae03c6, type: 3}
+  m_Name: Reflexion_Dia4
+  m_EditorClassIdentifier: Assembly-CSharp::ReflexionData
+  reflexiones:
+  - texto: "\u201CA veces uno piensa que el calor solo fastidia. Pero hay personas
+      que pasan horas enteras bajo el sol. Si yo ya estaba cansado despu\xE9s de
+      unos minutos, no imagino c\xF3mo se siente vivir as\xED todos los d\xEDas.\u201D"
+    diaRequerido: 4
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 0
+      valor: 0
+    arboles:
+      tipo: 0
+      valor: 0
+    arbolesPendiente:
+      tipo: 0
+      valor: 0

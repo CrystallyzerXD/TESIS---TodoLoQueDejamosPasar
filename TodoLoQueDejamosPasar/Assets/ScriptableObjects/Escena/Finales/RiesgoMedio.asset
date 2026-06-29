@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: RiesgoMedio
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: 
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: "La lluvia lleg\xF3. El barrio aguant\xF3.\nApenas."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: "No hubo inundaci\xF3n. Pero estuvo cerca."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: "Mateo mira el parque vac\xEDo.\nNadie sali\xF3 hoy."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: "Hizo algunas cosas bien esta semana. Dej\xF3 pasar otras."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: El barrio lo sabe. No dice nada.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: f1a928d690208ca4694cd9a9196326f0, type: 3}
+    texto: Solo espera. Como siempre.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 206c362dfbc38244daf7b557089738c5, type: 3}
+    texto: "\u201CA veces pienso en todo lo que podr\xEDa haber hecho distinto. No
+      fue suficiente para evitar que las cosas empeoraran... pero tampoco fue demasiado
+      tarde para entenderlo.\u201D"
+    decision: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c860f5a4c7bb1974d938e3791b9a4290, type: 3}
+  m_Name: Nube_Dia1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lineas:
+  - nombrePersonaje: Mateo
+    texto: "Oye, Nube... otro d\xEDa m\xE1s."
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: Nube
+    texto: '*te mira fijo y bosteza*'
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: Mateo
+    texto: "S\xED, yo tambi\xE9n."
+    anclaPersonaje: {fileID: 0}

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7c2b0062451e468ab72a4ecae03c6, type: 3}
+  m_Name: Reflexion_Dia3
+  m_EditorClassIdentifier: Assembly-CSharp::ReflexionData
+  reflexiones:
+  - texto: "\u201CNunca hab\xEDa pensado que unos \xE1rboles pudieran importar tanto.
+      No solo hacen ver bonito el parque. Son sombra, aire\u2026 y quiz\xE1 lo \xFAnico
+      que evita que todo empeore.\u201D"
+    diaRequerido: 3
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 0
+      valor: 0
+    arboles:
+      tipo: 0
+      valor: 5
+    arbolesPendiente:
+      tipo: 3
+      valor: 1
+  - texto: "\u201CNo dije nada porque sent\xED que no era asunto m\xEDo. Pero mientras
+      volv\xEDa a casa, no pude evitar pensar que quiz\xE1 eso mismo piensa todo
+      el mundo.\u201D"
+    diaRequerido: 3
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 0
+      valor: 0
+    arboles:
+      tipo: 0
+      valor: 5
+    arbolesPendiente:
+      tipo: 3
+      valor: 2
+  - texto: "\u201CPor un momento me pareci\xF3 l\xF3gico. M\xE1s espacio, m\xE1s
+      orden. Pero ahora que veo el parque vac\xEDo, siento que tal vez estamos arreglando
+      una cosa mientras destruimos otra.\u201D"
+    diaRequerido: 3
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 0
+      valor: 0
+    arboles:
+      tipo: 0
+      valor: 5
+    arbolesPendiente:
+      tipo: 3
+      valor: 3

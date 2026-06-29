@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c860f5a4c7bb1974d938e3791b9a4290, type: 3}
+  m_Name: Lucia_Arbol1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lineas:
+  - nombrePersonaje: Mateo
+    texto: "Creo que Luc\xEDa tiene raz\xF3n. No deber\xEDan talar los \xE1rboles
+      as\xED nom\xE1s."
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: "Luc\xEDa"
+    texto: "Gracias, Mateo. Si m\xE1s vecinos se enteran, tal vez podamos hacer algo."
+    anclaPersonaje: {fileID: 0}
+  - nombrePersonaje: "Luc\xEDa"
+    texto: "Empezar\xE9 hablando con los vecinos y tomando fotos del aviso."
+    anclaPersonaje: {fileID: 0}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 119fb526298f68f40ab5b1ad2408ff68, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: Assembly-CSharp::EscenaRolData
+  lineas:
+  - imagen: {fileID: 21300000, guid: d4d9ac065695f8f41bf8e0ac08e24e2b, type: 3}
+    texto: Hay barrios que funcionan a pesar de todo.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 4033524952b7a374cbb5740a6f8e3924, type: 3}
+    texto: "Calles que se inundan cuando llueve fuerte. \xC1rboles que nadie poda.
+      Basura que se acumula en las esquinas hasta que alguien, alg\xFAn d\xEDa, la
+      recoge."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 4033524952b7a374cbb5740a6f8e3924, type: 3}
+    texto: Mateo vive en uno de esos barrios.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 4033524952b7a374cbb5740a6f8e3924, type: 3}
+    texto: No es que no lo vea.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: 4033524952b7a374cbb5740a6f8e3924, type: 3}
+    texto: "Es que siempre asumi\xF3 que alguien m\xE1s lo resolver\xEDa."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: ee5c525f1b95ac34d8c9fc58578e9fbb, type: 3}
+    texto: "Esta semana, ese alguien podr\xEDa ser \xE9l."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: ee5c525f1b95ac34d8c9fc58578e9fbb, type: 3}
+    texto: O no.
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: ee5c525f1b95ac34d8c9fc58578e9fbb, type: 3}
+    texto: "Siete d\xEDas. Las mismas calles de siempre."
+    decision: {fileID: 0}
+  - imagen: {fileID: 21300000, guid: ee5c525f1b95ac34d8c9fc58578e9fbb, type: 3}
+    texto: "Lo que haga \u2014 o deje pasar \u2014 va a importar m\xE1s de lo que
+      cree."
+    decision: {fileID: 0}

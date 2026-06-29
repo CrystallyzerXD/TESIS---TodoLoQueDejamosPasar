@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ff8d6c8ea3e354a87bbe9adc4044d8, type: 3}
+  m_Name: NPC3_Story v2
+  m_EditorClassIdentifier: Assembly-CSharp::NPCStoryData
+  nombreNPC: NPC3
+  esExtra: 0
+  interaccionesPrincipales:
+  - id: NPC_Noche
+    diaRequerido: 6
+    hora: 0
+    dialogoInicial: {fileID: 11400000, guid: c62f10776cf2a7644ac5dff6a3d4a46b, type: 2}
+    escenaRol: {fileID: 0}
+    decision: {fileID: 0}
+    repetible: 1
+  interaccionesExtra:
+  - bienestarMin: 10
+    bienestarMax: 0
+    hora: 2
+    dialogoInicial: {fileID: 11400000, guid: c62f10776cf2a7644ac5dff6a3d4a46b, type: 2}
+  textoSinInteraccion: No tengo nada que decirle ahora.

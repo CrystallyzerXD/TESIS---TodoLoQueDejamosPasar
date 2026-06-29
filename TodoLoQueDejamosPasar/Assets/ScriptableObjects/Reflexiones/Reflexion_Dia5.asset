@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b7c2b0062451e468ab72a4ecae03c6, type: 3}
+  m_Name: Reflexion_Dia5
+  m_EditorClassIdentifier: Assembly-CSharp::ReflexionData
+  reflexiones:
+  - texto: "\u201CNube siempre volv\xEDa. Aunque pasara horas afuera, siempre terminaba
+      en la puerta, esperando que le abriera. Nunca imagin\xE9 que algo tan simple
+      como dejar basura tirada pudiera quit\xE1rmelo. Pensaba que la contaminaci\xF3n
+      era algo lejano, algo que solo cambiaba el paisaje. Pero hoy entend\xED que
+      tambi\xE9n puede llevarse a alguien que amas.\u201D"
+    diaRequerido: 5
+    contaminacion:
+      tipo: 0
+      valor: 0
+    bienestar:
+      tipo: 0
+      valor: 0
+    riesgo:
+      tipo: 0
+      valor: 0
+    arboles:
+      tipo: 0
+      valor: 0
+    arbolesPendiente:
+      tipo: 0
+      valor: 0
